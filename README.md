@@ -13,3 +13,4 @@ Currently supporting ArchiCAD 28 with the intent to maintain for perpetual licen
 Boundary Pro: A better boundary tool with setback options
 Pool Pro: A generic pool builder
 Mirror Pro: A customizable mirror object with shaving cabinet option
+Kinky Downpipe: Cadimage basic downpipe object edited to have horizontal toe option and step over walls.
